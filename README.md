@@ -4,3 +4,4 @@
 * It is currently hosted on Github Pages.
 * this is wonderful day!
 * This is fourth Try
+* Validating if Mode would still work
